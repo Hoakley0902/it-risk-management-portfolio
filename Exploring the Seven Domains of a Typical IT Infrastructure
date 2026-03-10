@@ -1,0 +1,37 @@
+# Lab 01 – Exploring the Seven Domains of a Typical IT Infrastructure
+
+**Official Lab Title:** Exploring the Seven Domains of a Typical IT Infrastructure
+
+## Overview
+This lab focused on analyzing the seven domains of a typical IT infrastructure and understanding how security controls are applied across users, workstations, networks, remote access, and systems. The work emphasized how different parts of an IT environment interact and how security risks can be identified and managed across multiple platforms.
+
+## Skills Demonstrated
+- Network configuration review
+- Basic connectivity testing
+- Firewall and NAT review
+- Active Directory navigation
+- Access control verification
+- Remote connectivity and system inspection
+- Security policy awareness
+- Cross-platform troubleshooting
+
+## Tools and Technologies Used
+- Windows Command Prompt
+- pfSense WebGUI
+- TrueNAS
+- Active Directory
+- PuTTY
+- Linux command line
+- Telnet
+- Windows Security / Virus & Threat Protection
+
+## What I Worked On
+In this lab, I reviewed several parts of an IT environment to better understand how infrastructure domains are secured. I used Windows networking commands to inspect DNS, IP configuration, connectivity, and ARP table entries. I also reviewed firewall rules, NAT settings, routing, and traceroute results in pfSense to better understand traffic flow and network boundaries.
+
+I verified storage status in TrueNAS, reviewed endpoint protection settings in Windows Security, and examined access permissions and group membership in Active Directory. I also connected to network infrastructure through PuTTY and used Linux commands to inspect directories, system information, and storage locations. These tasks required moving between multiple systems and interfaces to validate configurations and confirm that security controls were functioning as expected.
+
+## Key Takeaways
+This lab strengthened my understanding of how security responsibilities are distributed across different infrastructure domains. It also reinforced the importance of access control, system visibility, and layered security measures when supporting or securing enterprise environments. From an IT support perspective, the lab highlighted the value of troubleshooting across Windows, Linux, and network platforms while documenting findings clearly and accurately.
+
+## Evidence of Work
+- [Lab PDF Documentation]
