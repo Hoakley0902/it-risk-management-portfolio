@@ -44,6 +44,3 @@ These projects demonstrate practical experience with core cybersecurity and IT i
 
 LinkedIn:  
 https://www.linkedin.com/in/haleyoakley/
-
-Email:  
-Haley.oakley0902@gmail.com
